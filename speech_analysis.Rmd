@@ -83,4 +83,4 @@ speeches_words_log_odds %>%
     theme(legend.position = "none")
 ```
 
-Just looking at the few top most characteristic bigram phrases for each president (or candidate) is interesting: Bill clinton speaks of affirmative action, Hillary Clinton talks about trump, Trump talks of "Crooked Hillary", and both George Bush Sr. and Obama characteristically speak of al qaeda. 
+Just looking at the few top most characteristic bigram phrases for each president (or candidate) is interesting: Bill clinton speaks of affirmative action, Hillary Clinton talks about trump, Trump talks of "Crooked Hillary", and both George Bush Jr. and Obama characteristically speak of al qaeda. 
